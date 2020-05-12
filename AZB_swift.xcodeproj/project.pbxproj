@@ -130,6 +130,7 @@
 		5AA8B9702465161B00F20C9C /* MDCSwipeToChoose.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA8B96F2465161B00F20C9C /* MDCSwipeToChoose.swift */; };
 		5AA8B9722465168B00F20C9C /* KolodaCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA8B9712465168B00F20C9C /* KolodaCards.swift */; };
 		5AA8B974246516B700F20C9C /* collectionCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA8B973246516B700F20C9C /* collectionCard.swift */; };
+		5AF57834246AAC54004FB834 /* DBSphereTagCloudVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF57833246AAC54004FB834 /* DBSphereTagCloudVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -280,6 +281,7 @@
 		5AA8B96F2465161B00F20C9C /* MDCSwipeToChoose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MDCSwipeToChoose.swift; sourceTree = "<group>"; };
 		5AA8B9712465168B00F20C9C /* KolodaCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KolodaCards.swift; sourceTree = "<group>"; };
 		5AA8B973246516B700F20C9C /* collectionCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collectionCard.swift; sourceTree = "<group>"; };
+		5AF57833246AAC54004FB834 /* DBSphereTagCloudVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBSphereTagCloudVC.swift; sourceTree = "<group>"; };
 		E5971A105905ECEA9348A592 /* Pods_AZB_swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AZB_swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDACDFBBAAA9D226FC312233 /* Pods-AZB_swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AZB_swift.release.xcconfig"; path = "Target Support Files/Pods-AZB_swift/Pods-AZB_swift.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -899,6 +901,7 @@
 				5AA8B973246516B700F20C9C /* collectionCard.swift */,
 				5AA10E902467E650000977A3 /* collectStandLayout.swift */,
 				5AA10EAF246A386D000977A3 /* WaterfallLayout.swift */,
+				5AF57833246AAC54004FB834 /* DBSphereTagCloudVC.swift */,
 			);
 			path = collectionView;
 			sourceTree = "<group>";
@@ -1164,6 +1167,7 @@
 				5A1641B0243DC95B00EF6F94 /* BaseTitleCell.swift in Sources */,
 				5A0D0C3B24383D31002EA5D7 /* workEpidemicCell.swift in Sources */,
 				5A1641E524433F1F00EF6F94 /* selectPeopleVC.swift in Sources */,
+				5AF57834246AAC54004FB834 /* DBSphereTagCloudVC.swift in Sources */,
 				5A585C0F24347430008C0990 /* educationVC.swift in Sources */,
 				5AA8B96E2465149100F20C9C /* lookJumpTool.swift in Sources */,
 				5A1641B4243DD04300EF6F94 /* SelectImageView.swift in Sources */,

@@ -22,6 +22,7 @@ pod 'Koloda'
 pod "MDCSwipeToChoose"
 pod 'CollectionViewSlantedLayout'
 pod 'AnimatedCollectionViewLayout'
+pod 'DBSphereTagCloudSwift'
 
 end
 

@@ -11,7 +11,7 @@ import Foundation
 struct lookJumpTool {
     
     static func getArray()->Array<String> {
-        return ["泛型","ReactiveSwift","runtime","MDCSwipeToChoose卡片","KolodaCards卡片","collectionview","collectStandLayout","WaterfallLayout"]
+        return ["泛型","ReactiveSwift","runtime","MDCSwipeToChoose卡片","KolodaCards卡片","collectionview","collectStandLayout","WaterfallLayout","DBSphereTagCloudBall"]
     }
     
     static func jumpWith(text:String,navigationController:BaseNavigationVC) {
@@ -41,6 +41,9 @@ struct lookJumpTool {
             break
         case "WaterfallLayout":
             vc = WaterfallLayoutVC.init()
+            break
+        case "DBSphereTagCloudBall":
+            vc = DBSphereTagCloudVC.init()
             break
         default:
             return
